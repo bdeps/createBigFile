@@ -15,7 +15,7 @@ Run the Craete Big File.vbs with parameters
 /TB:n - Size in Terabytes
 
 # Example
-Creates two files, each 5Gb
-"Create Big File.vbs" /name:test /counts:2 /GB:5
+Creates two files, each 5Gb\
+"Create Big File.vbs" /name:test /counts:2 /GB:5\
 
 @Credit goes to Mattias Fors
