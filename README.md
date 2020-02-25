@@ -16,6 +16,6 @@ Run the Craete Big File.vbs with parameters
 
 # Example
 Creates two files, each 5Gb\
-"Create Big File.vbs" /name:test /counts:2 /GB:5\
+"Create Big File.vbs" /name:test /counts:2 /GB:5
 
 @Credit goes to Mattias Fors
