@@ -2,8 +2,8 @@
 Quickly creates dummy files for windows
 
 # Usage
-Open an elevated CMD.
-Place Create Big File.vbs in the directory you want to create files in
+Open an elevated CMD.\
+Place Create Big File.vbs in the directory you want to create files in\
 Run the Create Big File.vbs with parameters
 
 # Parameters
